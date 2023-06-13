@@ -1,9 +1,9 @@
 # **About this Project :**
-`It is project that was built in order for the hotel management 
+It is project that was built in order for the hotel management 
 to work in terms of reservation and demand .
-`
+
 # Written by :
-> *Mohaned Sherhan 2023* 
+> __Mohaned Sherhan 2023__ 
 
 # **My accounts on :**
 >[Twitter](https://twitter.com/MrX2023M?t=rHyMHB151bMLMsc94DkKvg&s=09)
